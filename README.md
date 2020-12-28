@@ -1,4 +1,4 @@
-# GhostieSpook.github.io
+# x-Siid-x.github.io
 AmariBot backgrounds website!
 
 ## Authors
